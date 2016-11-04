@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work
-description: Current CV for Bhartesh Mani is Engineer, Software Professional, Web Developer, Internet Freak, Music Enthusiast, Web Noodler living and working in Chennai.
+description: A short glimpse of my Educaton/Work in these years.
 
 ---
 
