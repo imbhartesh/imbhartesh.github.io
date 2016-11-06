@@ -337,9 +337,9 @@ a.post-excerpt {
   }
 
   a.post-excerpt:hover {
-    color:black;
-    /*background-color:#444;*/
-    background-color:#fff933;
+    color:white;
+    /*background-color:#444; 	#3c948b*/
+    background-color: #173e43;
     text-decoration:none;
   }
 

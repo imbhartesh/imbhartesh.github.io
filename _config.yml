@@ -4,3 +4,5 @@ permalink: /:title
 markdown: kramdown
 
 
+# Disqus post comments
+disqus_shortname: imbhartesh
