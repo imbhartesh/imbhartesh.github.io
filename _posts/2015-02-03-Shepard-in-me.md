@@ -5,7 +5,7 @@ og_image_url: "https://cdn-images-1.medium.com/max/800/1*NiWu2oEG930v3IWaCaJfCw.
 layout: post
 tags: jounal, blog
 category: inspire
-comments: yes
+comments: true
 
 ---
 
