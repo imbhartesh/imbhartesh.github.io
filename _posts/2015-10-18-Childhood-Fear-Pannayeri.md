@@ -5,7 +5,7 @@ og_image_url: "https://c1.staticflickr.com/6/5753/30135667584_62f28039be.jpg"
 layout: post
 tags: jounal, blog
 category: inspire
-comments: yes
+comments: true
 
 ---
 
