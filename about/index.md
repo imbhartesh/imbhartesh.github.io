@@ -16,7 +16,7 @@ Learning. Loving. Dreaming. Hoping. Praying.
 ## Social
 
 - [Twitter](http://twitter.com/imbhartesh) — Tweets
-- [Instagram](http://instagram.com/iambhartesh/) — SnapShots
+- [ALBUM](http://imbhartesh.tumblr.com) — Album
 - [Flickr](https://www.flickr.com/photos/bmclickr/albums/72157656140027328) — Life Moments
 - [Facebook](http://www.facebook.com/iambhartesh) — Request me
 
