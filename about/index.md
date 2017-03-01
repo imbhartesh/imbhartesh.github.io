@@ -15,9 +15,9 @@ Learning. Loving. Dreaming. Hoping. Praying.
 
 ## Social
 
-- [Twitter](http://twitter.com/imbhartesh) — Tweets
-- [ALBUM](http://imbhartesh.tumblr.com) — Album
-- [Flickr](https://www.flickr.com/photos/bmclickr/albums/72157656140027328) — Life Moments
-- [Facebook](http://www.facebook.com/iambhartesh) — Request me
+- [Twitter](http://twitter.com/imbhartesh){:target="_blank"} — Tweets
+- [Album](http://imbhartesh.tumblr.com){:target="_blank"} — Album Timeline
+- [Flickr](https://www.flickr.com/photos/bmclickr/albums/72157656140027328){:target="_blank"} — Life Moments
+- [Facebook](http://www.facebook.com/iambhartesh){:target="_blank"} — Request me
 
 ### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @imbhartesh](http://twitter.com/imbhartesh)
