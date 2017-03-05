@@ -1,10 +1,8 @@
 ---
 title: "MSI Trips & Oting Pics"
 description: "Chennai One MSI folks Reporting Tower- Outing"
-layout: post
-tags: jounal, blog
-category: career
-comments: true
+layout: default
+
 
 ---
 
