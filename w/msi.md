@@ -1,7 +1,7 @@
 ---
 title: "MSI Trips & Oting Pics"
 description: "Chennai One MSI folks Reporting Tower- Outing"
-layout: default
+layout: page
 
 
 ---
