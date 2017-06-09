@@ -4,7 +4,7 @@ title: About
 description: Credits and information about the website bhartesh.in, the personal website for Bhartesh, a Engineer, Software Professional, Web Developer, Internet Freak, Music Enthusiast, Web Noodler living and working in Chennai.
 ---
 
-<img src="portrait.jpg" width="50%" align="right">
+<img src="portrait.jpg" width="30%" align="right">
 
 I am a Software Engineer working in BI based projects. I live in Chennai, INDIA and work for Tata Consultancy Services as System Engineer.
 
@@ -19,5 +19,6 @@ Learning. Loving. Dreaming. Hoping. Praying.
 - [Album](http://imbhartesh.tumblr.com){:target="_blank"} — Album Timeline
 - [Flickr](https://www.flickr.com/photos/bmclickr/albums/72157656140027328){:target="_blank"} — Life Moments
 - [Facebook](http://www.facebook.com/iambhartesh){:target="_blank"} — Request me
+- [Live Once](https://bhartesh.wordpress.com/){:target="_blank"} — Inspiring World around me
 
 ### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @imbhartesh](http://twitter.com/imbhartesh)
