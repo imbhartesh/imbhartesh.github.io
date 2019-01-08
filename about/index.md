@@ -6,7 +6,7 @@ description: Credits and information about the website bhartesh.in, the personal
 
 <img src="portrait.jpg" width="30%" align="right">
 
-I am a Software Engineer working in BI based projects. I live in Chennai, INDIA and work for Tata Consultancy Services as System Engineer.
+I am a Software Engineer who loves to explore and analyse the data. I live in Chennai, INDIA and currenlty working in Tata Consultancy Services as IT Analyst.
 
 I always wanted to be a computer freak, and that journey strated from 2011. Post graduation in Embedded system and graduation in Electronics & Communication made me enough to deal with this Sci-Fi society.
 
